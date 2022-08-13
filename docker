@@ -1,7 +1,7 @@
 library(GGIR)
 GGIR(
-     datadir = "". 
-     outputdir = "",
+     datadir = "storage1.ris.wustl.edu/yin.cao/Active/xiaoyuzong/GGIR/". 
+     outputdir = "storage1.ris.wustl.edu/yin.cao/Active/xiaoyuzong/GGIRoutput/",
      idloc = 2, 
      overwrite = TRUE, 
      do.sibreport = TRUE, 
